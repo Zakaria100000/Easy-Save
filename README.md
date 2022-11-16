@@ -76,3 +76,5 @@ Once you will have set up your computer You will have to clone this project.
 
 With Git: 
 https://github.com/Zakaria100000/Easy-Save.git
+
+Then refer to the usage section and you will be ready to go !
